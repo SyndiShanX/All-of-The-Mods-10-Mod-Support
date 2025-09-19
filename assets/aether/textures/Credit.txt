@@ -1,0 +1,7 @@
+
+Aether Legacy 1.16 support used as starting point - various authors, textures on stash starting as early as #5 with no author associated (ported from legacy support)
+
+1.20 support developed by NiceGuyNate aka swimfreak 
+
+- #22613 used for holystone bricks
+- Dwarven, Dark, and High armor textures used for reference

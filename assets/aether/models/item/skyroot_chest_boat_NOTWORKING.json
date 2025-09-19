@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/boat_chest",
+	"textures": {
+		"boat": "aether:entity/miscellaneous/boat/item/skyroot",
+		"chest": "aether:entity/miscellaneous/chest_boat/item/skyroot"
+	}
+}

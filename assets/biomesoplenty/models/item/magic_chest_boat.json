@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/boat_chest",
+	"textures": {
+		"boat": "biomesoplenty:entity/boat/item/magic",
+		"chest": "biomesoplenty:entity/chest_boat/item/magic"
+	}
+}

@@ -1,0 +1,6 @@
+- The majority of the original textures are adapted from a texture sheet made by Archibald_TK. 
+
+- Textures adapted and credited on the stash for rose quartz
+
+- 1.20.1 support for various potted variants, wood support, block models for new plants from 1.16+ development done by KuruKuruDaza
+- 1.20.1 Light support and several alternatives developed by NiceGuyNate 

@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/boat_chest",
+	"textures": {
+		"boat": "biomesoplenty:entity/boat/item/jacaranda",
+		"chest": "biomesoplenty:entity/chest_boat/item/jacaranda"
+	}
+}

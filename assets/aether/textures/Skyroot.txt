@@ -1,0 +1,5 @@
+Layers
+
+Layer, color mode, fill with #7a7a59
+Levels layer, 0, 1.0, 200
+Oak texture from dokucraft

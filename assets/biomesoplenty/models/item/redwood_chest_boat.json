@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/boat_chest",
+	"textures": {
+		"boat": "biomesoplenty:entity/boat/item/redwood",
+		"chest": "biomesoplenty:entity/chest_boat/item/redwood"
+	}
+}
