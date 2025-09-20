@@ -1,0 +1,9 @@
+{
+	"parent": "block/orientable_with_bottom",
+	"textures": {
+		"top": "ironfurnaces:block/spooky_ends",
+		"bottom": "ironfurnaces:block/spooky_ends",
+		"front": "ironfurnaces:block/spooky_blast_furnace_front_on",
+		"side": "ironfurnaces:block/spooky_sides"
+	}
+}

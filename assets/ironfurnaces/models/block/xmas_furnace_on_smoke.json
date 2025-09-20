@@ -1,9 +1,9 @@
 {
 	"parent": "block/orientable_with_bottom",
 	"textures": {
-		"top": "ironfurnaces:block/xmas_furnace_top_smoke",
-		"bottom": "ironfurnaces:block/xmas_furnace_top",
-		"front": "ironfurnaces:block/xmas_furnace_front_on_smoke",
-		"side": "ironfurnaces:block/xmas_furnace_side"
+		"top": "ironfurnaces:block/xmas_smoker_top",
+		"bottom": "ironfurnaces:block/smoker_bottom",
+		"front": "ironfurnaces:block/xmas_smoker_front_on",
+		"side": "ironfurnaces:block/xmas_smoker_side"
 	}
 }

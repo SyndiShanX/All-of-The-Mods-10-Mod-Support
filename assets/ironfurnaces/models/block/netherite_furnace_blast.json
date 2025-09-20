@@ -1,9 +1,9 @@
 {
 	"parent": "block/orientable_with_bottom",
 	"textures": {
-		"top": "ironfurnaces:block/netherite_furnace_top",
-		"bottom": "ironfurnaces:block/netherite_furnace_bottom",
-		"front": "ironfurnaces:block/netherite_furnace_front_blast",
-		"side": "ironfurnaces:block/netherite_furnace_side"
+		"top": "ironfurnaces:block/netherite_blast_furnace_ends",
+		"bottom": "ironfurnaces:block/netherite_blast_furnace_ends",
+		"front": "ironfurnaces:block/netherite_blast_furnace_front",
+		"side": "ironfurnaces:block/netherite_blast_furnace_side"
 	}
 }
