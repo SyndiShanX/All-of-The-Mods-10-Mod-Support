@@ -4,7 +4,7 @@
 		"type": "CTM",
 		"layer": "SOLID",
 		"textures": [
-			"mekanism:ctm/pressure_disperser"
+			"mekanism:ctm/steel_casing"
 		]
 	}
 }

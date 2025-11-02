@@ -1,1 +1,17 @@
-{"ctm":{"ctm_version":1,"type":"CTM","layer":"SOLID","textures":["mekanismgenerators:block/turbine_valve-ctm"],"extra":{"connect_to":[{"block":"mekanismgenerators:turbine_casing"},{"block":"mekanismgenerators:turbine_valve"},{"block":"mekanismgenerators:turbine_vent"}]}}}
+{
+	"ctm": {
+		"ctm_version": 1,
+		"type": "CTM",
+		"layer": "SOLID",
+		"textures": [
+			"mekanismgenerators:ctm/turbine_valve"
+		],
+		"extra": {
+			"connect_to": [
+				{"block":"mekanismgenerators:turbine_casing"},
+				{"block":"mekanismgenerators:turbine_valve"},
+				{"block":"mekanismgenerators:turbine_vent"}
+			]
+		}
+	}
+}
